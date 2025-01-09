@@ -3,6 +3,7 @@
 Project to revolutionize educational examinations. 📝 😄
 
 Take a look: [LIVE APP](https://quizwhizai.netlify.app/) 🔗
+>*Currently offline <sm>(keeping back-end running is low-key too expensive for a poor student =P)</sm>
 
 ## Technologies
 
